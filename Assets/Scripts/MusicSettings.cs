@@ -11,7 +11,7 @@ public class MusicSettings : MonoBehaviour
     public Toggle effectsMutedToggle;
 
     public static MusicSettings globalMusicSettings;
-
+    
     void Awake()
     {
         if(globalMusicSettings != null)
