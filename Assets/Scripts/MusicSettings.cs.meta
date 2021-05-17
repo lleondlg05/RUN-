@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fae73056d18cb9ead9d884580458010b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effects: {instanceID: 0}
+  - music: {instanceID: 0}
+  - musicMutedToggle: {fileID: 6669851397633481707, guid: bd06387c1582ac010867910641601c52,
+      type: 3}
+  - effectsMutedToggle: {fileID: 929292800969858092, guid: de29e9490ef3f1981a87ebe965922e93,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
